@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mahsa Farzami 👋
 
-<!--
-**MahsaFarzami/MahsaFarzami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Front-End Developer | React • Next.js • TypeScript
 
-Here are some ideas to get you started:
+I am a Front-End Developer with **9+ years of experience** building high-performance, scalable, and user-friendly web applications. I specialize in turning complex designs into clean, maintainable code with a strong focus on performance and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Core:** React.js, Next.js, TypeScript, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, HTML5, CSS3, RTL Support
+- **State & Data:** RESTful APIs, Axios, Redux / Context API
+- **Testing & Tools:** Jest, React Testing Library, Git, Node.js
+
+---
+
+### 🚀 What I'm focusing on
+- Improving Core Web Vitals and web performance.
+- Building scalable design systems and reusable UI components.
+- Exploring advanced Next.js features (Server Components, App Router).
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahsa-farzami)
+- 📧 [Email](mailto:mahsa.farzami@gmail.com)
